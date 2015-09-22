@@ -1,0 +1,7 @@
+/Library/
+/Temp/
+/Assets/UnityVS/
+/Assets/UnityVs.meta
+/.vs/
+/*.csproj
+/*.sln
